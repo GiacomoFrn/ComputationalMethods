@@ -20,9 +20,21 @@ Lab projects of the Computational Methods in Physiscs course Y2020-21 (https://e
   
 * [04_FermiPastaUlam](\04_FermiPastaUlam)
 
+  Reproduce the results of FPU problem (+ FPUM superiod) using the _Velocity Verlet_ algorithm
   
 * [05_PoissonEquation](\05_PoissonEquation)
+
+  Solve the Poisson equation in three different cases using the iterative _Jacobi_ algorithm
+  
 * [06_SchroedingerEquation](\06_SchroedingerEquation)
+
+  Solve the time dependent Schroedinger equation in 1D with the _Crank Nicolson_ algorithm
+  
 * [07_IsingModel](\07_IsingModel)
+
+  Use  the _Metropolis_ algorithm for studing the 1D Ising Model
+  
 * [ExamProject](\ExamProject)
+
+  Electric Field and potential for 2D capacitor and 2D & 3D metal sphere
   
