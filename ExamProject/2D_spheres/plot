@@ -1,0 +1,7 @@
+splot "p_r.txt" w l
+plot "Efield.txt" using 1:2:3:4 with vectors filled head
+plot "Efield.txt" with image, "Efield.txt" using 1:2:(2*$4)/sqrt(($4)**2+($5)**2):(2*$5)/sqrt(($4)**2+($5)**2) every 2:2 with vectors lc -1 filled notitle
+plot "Efield.txt" with image, "Efield.txt" using 1:2:($4/1.5):($5/1.5) every 2:2 with vectors lc -1 filled notitle
+set yrange[0:100]
+set xrange[0:100]
+ set palette model HSV defined ( 0 0 1 1, 1 1 1 1 )
