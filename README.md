@@ -32,7 +32,7 @@ Lab projects of the Computational Methods in Physiscs course Y2020-21 (https://e
   
 * [07_IsingModel](\07_IsingModel)
 
-  Use  the _Metropolis_ algorithm for studing the 1D Ising Model
+  Use  the _Metropolis_ algorithm for studing the 2D Ising Model
   
 * [ExamProject](\ExamProject)
 
