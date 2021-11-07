@@ -1,0 +1,2 @@
+set view equal xyz
+splot "Efield.txt" with vectors, "p_r.txt" w p
