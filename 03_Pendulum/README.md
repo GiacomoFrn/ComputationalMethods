@@ -4,4 +4,5 @@ Consider the single pendulum motion equation <img src="https://render.githubuser
 Solve the differential equation using _Runge Kutta_ and initial angles in the range [0,90]. 
 
 Then compute the ratio between the computed period and the ideal one.
+![image](ratio.png)
 
